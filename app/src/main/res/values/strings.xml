@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intertech RecyclerView Demo</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_about">About Intertech</string>
+    <string name="brought_by_label">by Intertech, Inc.</string>
+    <string name="phone_label">6651-288-7000</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
